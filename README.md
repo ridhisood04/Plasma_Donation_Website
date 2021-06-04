@@ -5,7 +5,7 @@ Welcome to <b>Plasma Donation Website</b>. As we all know, the world is sufferin
 The main goal of our project is to make it easier for the COVID-19 patients to get a plasma donor easily as well as donate plasma if they have fully recovered. The system targets two types of user : the people who want to donate plasma and the people who need plasma.The user can also view the total active cases, nearby vaccine centres and hospitals address. The main objective for developing the website is to make it easier for the COVID-19 patients to get a plasma donor easily  as soon as possible.
 <h1>Work flow of the project</h1>
 The person who wants to donate his/her plasma need to register in our application providing required information which are name, age, blood group, phone number and location etc.<br/> 
-Patients who need plasma can fill the form to request the plasma. Patients can directly call the donor by taking his/her contact number from the application<br/>.
+Patients who need plasma can fill the form to request the plasma.Patients can directly call the donor by taking his/her contact number from the application<br/>.
 The user can also view the total active cases, recovered cases, vaccine centres in their area,hospitals location and helpline number.
 
 <h1>Technology Used</h1>
